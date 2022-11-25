@@ -105,7 +105,7 @@ h1{
     border-radius: 10px;
     position: absolute;
     width: 510px;
-    height: 440px;
+    height: 450px;
     border: #FFFFFF;
     padding-left: 17.5px; 
     padding-top: 22.5px;
@@ -129,4 +129,16 @@ h1{
     width: 475px;
     height: 325px;
     border-radius: 10px;
+}
+
+.blurb1{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.label{
+    font-size: 15px;
+    color: #A7A7A7;
+    line-height: 20px;
+    font-weight: lighter;
 }
