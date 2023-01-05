@@ -3,7 +3,7 @@ html{
   }
 
 body {
-    font-family: Muli;
+    font-family: Montserrat;
     font-size: 16px;
 }
 
@@ -16,7 +16,7 @@ body {
 
 #links{
     right: 3em;
-    top:2em;
+    top:1.5em;
     position: absolute;
 }
 
@@ -152,7 +152,7 @@ h1{
 }
 
 .footer{
-    background-color: #e3e3e3;
+    background-color: #e6e6e6;
     color: #000000;
     text-align: center;
     padding-top: 2em;
@@ -162,4 +162,8 @@ h1{
 
 .footer-links{
     display: inline-block;
+}
+
+hr{
+    border-top: 1px solid rgb(200, 200, 200);
 }
