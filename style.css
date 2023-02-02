@@ -2,6 +2,11 @@ html{
     scroll-behavior:smooth;
   }
 
+.content {
+    max-width: 500px;
+    margin: auto;
+}
+
 body {
     font-family: Montserrat;
     font-size: 16px;
@@ -38,6 +43,7 @@ a {
 a.other {
     color: #b6c6a4;
 }
+
 
 a:hover{
     color: #b6c6a4;
