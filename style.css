@@ -7,6 +7,12 @@ html{
     margin: auto;
 }
 
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 body {
     font-family: Montserrat;
     font-size: 16px;
