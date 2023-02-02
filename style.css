@@ -32,13 +32,19 @@ body {
 }
 
 a {
-    color: black;
+    color: black; 
+}
+
+a.other {
+    color: #b6c6a4;
 }
 
 a:hover{
     color: #b6c6a4;
     text-decoration: none;
 }
+
+
 
 .right {
     padding-right: 1.5em;
